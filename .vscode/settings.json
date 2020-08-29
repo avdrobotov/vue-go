@@ -1,4 +1,7 @@
 {
     "license.author": "Alexander V Drobotov",
-    "license.year": "2020"
+    "license.year": "2020",
+    "projectManager.git.baseFolders": [
+        "vue+go"
+    ]
 }
